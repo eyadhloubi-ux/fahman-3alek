@@ -1,0 +1,18 @@
+{
+  "name": "فهمان عليك؟ · صار بدها قعدة",
+  "short_name": "فهمان عليك",
+  "description": "سؤال عن واحد منكن، الكل بيكتب جوابو، وهو بيختار مين فعلاً فهمان عليه.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EADFC8",
+  "theme_color": "#EADFC8",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
